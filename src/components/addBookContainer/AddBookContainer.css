@@ -1,0 +1,18 @@
+.add-book-container {
+  height: 50vh;
+  width: 100%;
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.add-book-form {
+  border: 2px solid green;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
